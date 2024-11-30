@@ -1,0 +1,21 @@
+{
+  "name": "pll",
+  "version": "1.0.0",
+  "main": "cards.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.4.0",
+    "mysql2": "^3.11.5",
+    "normalize.css": "^8.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
